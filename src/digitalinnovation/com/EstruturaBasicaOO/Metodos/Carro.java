@@ -1,6 +1,6 @@
-package digitalinnovation.com.EstruturaBasicaOO;
+package digitalinnovation.com.EstruturaBasicaOO.Metodos;
 
-public class carro {
+public class Carro {
 
     String cor;
     String modelo;
